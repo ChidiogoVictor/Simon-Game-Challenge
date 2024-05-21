@@ -6,3 +6,4 @@ This is a javascript game
 HTML
 CSS
 JavaScript
+JQuery
